@@ -1,0 +1,36 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Tagesschrift&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Cursive:wght@400..700&family=Michroma&family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&family=Tagesschrift&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Cursive:wght@400..700&family=Libertinus+Mono&family=Lora:ital,wght@0,400..700;1,400..700&family=Michroma&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&family=Tagesschrift&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+
+
+/* *{
+    font-family: "Edu NSW ACT Cursive", cursive;
+} */
+
+/* .my_font{
+    font-family: "Outfit", sans-serif;
+} */
+
+.lora- {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+
+}
+
+.curved-branch::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.35rem; /* adjust to center vertically */
+  width: 1.4rem;
+  height: 1rem;
+  border-left: 2px solid #8b5cf6; /* purple-400 */
+  border-bottom: 2px solid #8b5cf6;
+  border-bottom-left-radius: 0.7rem;
+
+
+}
